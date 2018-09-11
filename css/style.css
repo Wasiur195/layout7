@@ -1,0 +1,81 @@
+.header{
+	min-height:80px;
+	border:5px solid red;
+	margin-bottom:5px;
+	overflow: hidden;
+}
+.logo{
+	border: 2px solid green;
+	width: 50px;
+	min-height: 80px;
+	float: left;
+}
+.navigation{
+	min-height:50px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 2px solid blue;
+	width: 230px;
+	float: right;
+
+}
+.banner{
+	min-height: 150px;
+	border: 5px solid blue;
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+.ban{
+	min-height:125px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 2px solid blue;
+	width: 125px;
+	float: left;
+}
+.middle{
+	min-height: 400px;
+	border: 5px solid blue;
+	overflow:hidden;
+
+}
+.mid1{
+	min-height:500px;
+	border:2px solid blue;
+	width: 25%;
+	float:left;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+.mid2{
+	min-height:500px;
+	border:2px solid blue;
+	width: 25%;
+	float:left;
+	margin-bottom:10px;
+	margin-top: 10px;
+	margin-left: 165px;
+      
+	
+	
+
+}
+.mid3{
+min-height:500px;
+	border:2px solid blue;
+	width: 25%;
+	float:right;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+.footer{
+	border:5px solid red;
+	min-height:75px;
+	margin-top: 10px;
+	
+
+}
+
